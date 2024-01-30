@@ -1,0 +1,8 @@
+#ifndef A8C94126_0098_4331_9C69_1032616062BF
+#define A8C94126_0098_4331_9C69_1032616062BF
+
+
+#include "Scene.hpp"
+#include "GamePlayScene.hpp"
+
+#endif /* A8C94126_0098_4331_9C69_1032616062BF */
