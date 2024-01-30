@@ -26,7 +26,7 @@ Desenvolvi este jogo simples para me ajudar a estudar guitarra. Foi desenvolvido
 
    
   
-`git clone https://github.com/seu-usuario/rhythm-challenge.git`
+`git clone https://github.com/VitorTz/Rhythm-Challenge.git`
 
 
 `cd rhythm-challenge`
