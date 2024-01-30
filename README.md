@@ -1,8 +1,10 @@
 # Rhythm Challenge
 
 
+![gameplay](res/video/demo.gif)
 
 Desenvolvi este jogo simples para me ajudar a estudar guitarra. Foi desenvolvido em C++ e utilizei a biblioteca SFML. O jogo basicamente visa treinar o ritmo junto junto com o acompanhamento do metronomo na hora de tocar. O jogo faz isso apresentando sequências de notas na tela que devem ser tocadas respeitando um BPM estabelecido.
+
 
 ## Funcionamento
 
